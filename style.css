@@ -7,3 +7,15 @@
 body{
     background: url("./assets/bg-teste2.png") top center/cover;
 }
+
+body *{
+    font-family: "Montserrat";
+    color: white;
+}
+
+#title p {
+    font-weight: 5px;
+    line-height: 24px;
+    margin-top: 8px;
+
+}
